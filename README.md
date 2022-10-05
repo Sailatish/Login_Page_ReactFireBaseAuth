@@ -4,5 +4,4 @@ The web application made of react uses firebase for authentication which include
 Login
 Logout
 Reset Password
-
 ```
