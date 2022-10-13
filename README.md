@@ -10,3 +10,7 @@ Reset Password
 - Open the web integration 
 - Set Authentication and Register your app
 - integrate the Script in you java Script file
+
+## Getting Started with Create React App
+In the project directory, you can run:
+` npm Start`
